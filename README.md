@@ -19,14 +19,14 @@ A turn-based dungeon exploration game with procedurally generated levels built i
 
 1. Clone the repository
    ```
-   git clone <your-repository-url>
+   git clone https://github.com/Artzzx/roguelike.git
    cd roguelike
    ```
 
 2. Set up a virtual environment
    ```
    python -m venv venv
-   source venv/bin/activate  # On Windows: venv\Scripts\activate
+   venv\Scripts\activate
    ```
 
 3. Install dependencies
