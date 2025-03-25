@@ -73,4 +73,7 @@ coverage.xml
 .python-version
 
 # misc
-*.txt
+Implémentation.txt
+Interactions.txt
+Mechanics.txt
+Structure.txt
