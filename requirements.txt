@@ -2,6 +2,7 @@
 tcod>=13.10.0      # Console operations, FOV, pathfinding
 numpy>=1.24.0      # Array operations
 colorama>=0.4.6    # Colored terminal output
+attrs>=25.1.0      # Class attribute handling
 
 # Entity Component System (optional)
 esper>=2.5        # Lightweight ECS framework
